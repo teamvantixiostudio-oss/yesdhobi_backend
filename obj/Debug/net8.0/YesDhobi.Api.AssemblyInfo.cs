@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YesDhobi.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2b5016f0cd7208abce766892a18fcbb03ef2f02")]
 [assembly: System.Reflection.AssemblyProductAttribute("YesDhobi.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YesDhobi.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

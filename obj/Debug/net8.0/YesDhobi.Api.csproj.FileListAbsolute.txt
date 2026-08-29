@@ -142,3 +142,4 @@ C:\Users\SHA\OneDrive\Desktop\yesdhobi backend\obj\Debug\net8.0\refint\YesDhobi.
 C:\Users\SHA\OneDrive\Desktop\yesdhobi backend\obj\Debug\net8.0\YesDhobi.Api.pdb
 C:\Users\SHA\OneDrive\Desktop\yesdhobi backend\obj\Debug\net8.0\YesDhobi.Api.genruntimeconfig.cache
 C:\Users\SHA\OneDrive\Desktop\yesdhobi backend\obj\Debug\net8.0\ref\YesDhobi.Api.dll
+C:\Users\SHA\OneDrive\Desktop\yesdhobi backend\obj\Debug\net8.0\YesDhobi.Api.sourcelink.json
