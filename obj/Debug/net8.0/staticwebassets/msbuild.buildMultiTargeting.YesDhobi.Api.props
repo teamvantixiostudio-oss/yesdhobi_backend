@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\YesDhobi.Api.props" />
+</Project>
